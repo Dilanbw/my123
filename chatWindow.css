@@ -838,7 +838,7 @@
 }
 
 .kore-chat-window .buttonTmplContent .buttonTmplContentChild {
-    color: #3292FF;
+    color: #ffffff;
     /* color: #ffffff; */
     border-top: 1px solid var(--sdk-chat-widow-primary-bg-color);
     padding: 10px;
